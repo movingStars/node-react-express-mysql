@@ -1,0 +1,11 @@
+#webpack
+.zip
+/dist
+/public
+/build
+
+# IDE/Editor data
+.idea
+
+# Dependency directory
+node_modules
